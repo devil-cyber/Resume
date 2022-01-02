@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/manikant/static/css/main.ee1471ad.chunk.css",
+    "main.js": "/manikant/static/js/main.9948c153.chunk.js",
+    "main.js.map": "/manikant/static/js/main.9948c153.chunk.js.map",
+    "runtime-main.js": "/manikant/static/js/runtime-main.9a7b272f.js",
+    "runtime-main.js.map": "/manikant/static/js/runtime-main.9a7b272f.js.map",
+    "static/js/2.4993cc89.chunk.js": "/manikant/static/js/2.4993cc89.chunk.js",
+    "static/js/2.4993cc89.chunk.js.map": "/manikant/static/js/2.4993cc89.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/manikant/static/css/3.df879eac.chunk.css",
+    "static/js/3.99ea70e5.chunk.js": "/manikant/static/js/3.99ea70e5.chunk.js",
+    "static/js/3.99ea70e5.chunk.js.map": "/manikant/static/js/3.99ea70e5.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/manikant/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.ebcc580d.chunk.js": "/manikant/static/js/4.ebcc580d.chunk.js",
+    "static/js/4.ebcc580d.chunk.js.map": "/manikant/static/js/4.ebcc580d.chunk.js.map",
+    "index.html": "/manikant/index.html",
+    "precache-manifest.96b43dc9bd1e05852cd1d639557354ad.js": "/manikant/precache-manifest.96b43dc9bd1e05852cd1d639557354ad.js",
+    "service-worker.js": "/manikant/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/manikant/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/manikant/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.ee1471ad.chunk.css.map": "/manikant/static/css/main.ee1471ad.chunk.css.map",
+    "static/js/2.4993cc89.chunk.js.LICENSE.txt": "/manikant/static/js/2.4993cc89.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/manikant/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/bh.png": "/manikant/static/media/bh.d8c9be0d.png",
+    "static/media/contactMailDark.svg": "/manikant/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/manikant/static/media/developerActivity.59389695.svg",
+    "static/media/editrox.png": "/manikant/static/media/editrox.513abada.png",
+    "static/media/hack.png": "/manikant/static/media/hack.d38a06be.png",
+    "static/media/ine.png": "/manikant/static/media/ine.df197cad.png",
+    "static/media/manOnTable.svg": "/manikant/static/media/manOnTable.52be3144.svg",
+    "static/media/mlogo.png": "/manikant/static/media/mlogo.536fb384.png",
+    "static/media/nitap.png": "/manikant/static/media/nitap.dd32705c.png",
+    "static/media/skill.svg": "/manikant/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/manikant/static/media/talksCardBack.13780cdd.svg",
+    "static/media/ud.png": "/manikant/static/media/ud.bde8ff6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a7b272f.js",
+    "static/js/2.4993cc89.chunk.js",
+    "static/css/main.ee1471ad.chunk.css",
+    "static/js/main.9948c153.chunk.js"
+  ]
+}
