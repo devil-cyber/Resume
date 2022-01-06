@@ -64,7 +64,9 @@ if (USE_GITHUB_DATA === "true") {
     method: "POST",
     headers: {
       Authorization: `Bearer ${GITHUB_TOKEN}`,
-      "User-Agent": "Node"
+      "User-Agent": "Node",
+      'Content-Type': 'application/json',
+      'Accept': 'application/json'
     }
   };
 
