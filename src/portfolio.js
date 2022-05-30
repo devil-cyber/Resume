@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Software Developer 🚀 having an experience of building software with JavaScript / Reactjs / Nodejs / Python / Flask and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/19iWAawcN87ety1YmwNXnn2yG3Z6E9UqR/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1jntC-JoUj33i3ESP1kQwBmaoeSmmRmoy/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -164,6 +164,17 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+         {
+      role: "Software Engineer Intern",
+      company: "Samsung SDS",
+      companylogo: require("./assets/images/samsung.jpg"),
+      date: "Jan 2022 – June 2022",
+      descBullets: [
+        "Working with the Samsung Ecommerce team.",
+        "Teach stack used Java, Spring Boot, Vue.js",
+        "Qualified Samsung SDS Advance Software Programming test."
+      ]
+    },
     {
       role: "Software Engineer Intern",
       company: "iNeuron.ai",
@@ -209,7 +220,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "EditRox",
-          url: "https://editrox.herokuapp.com/"
+          url: "https://editrox.netlify.app/"
         }
         //  you can add extra buttons here.
       ]
@@ -240,7 +251,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "TensorFlow & Keras | 9.8k user",
+      title: "TensorFlow & Keras | 13.7k user",
       subtitle:
         "This is a keras & TensorFlow vscode extension that provide boilerplate for different CNN algorithm.",
       image: require("./assets/images/keras.png"),
@@ -274,14 +285,25 @@ const achievementSection = {
         }
       ]
     },
+    // {
+    //   title: "Got 5 ⭐ at HackerRank",
+    //   subtitle: "Got 5 ⭐ in Python & Problem Solving",
+    //   image: require("./assets/images/hack.png"),
+    //   footerLink: [
+    //     {
+    //       name: "Profile",
+    //       url: "https://www.hackerrank.com/mani360?hr_r=1"
+    //     }
+    //   ]
+    // },
     {
-      title: "Got 5 ⭐ at HackerRank",
-      subtitle: "Got 5 ⭐ in Python & Problem Solving",
-      image: require("./assets/images/hack.png"),
+      title: "Passed Aws Cloud Practitioner Certification",
+      subtitle: "Scored 800 / 1000",
+      image: require("./assets/images/aws_cert-1.png"),
       footerLink: [
         {
-          name: "Profile",
-          url: "https://www.hackerrank.com/mani360?hr_r=1"
+          name: "Verify Certificate",
+          url: "https://www.credly.com/badges/f988a391-6b8a-42a0-994f-cd76f6eadc11?source=linked_in_profile"
         }
       ]
     }
